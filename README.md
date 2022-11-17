@@ -1,3 +1,3 @@
 Lee Jinseo
 
-[CV](github.com/Allgot/Allgot.github.io/CV_Jinseo_Lee_.pdf)
+[CV](https://github.com/Allgot/Allgot.github.io/blob/main/CV_Jinseo_Lee_.pdf)
