@@ -1,5 +1,5 @@
 This is my homepage but under construction.  
-Currently, you can check a CV, a transcript and a project paper called 'Improved DialogueRNN: Dealing with Emotional Shift'.
+Currently, you can check a CV, transcripts and a project paper called 'Improved DialogueRNN: Dealing with Emotional Shift'.
 
 [CV](https://raw.githubusercontent.com/Allgot/Allgot.github.io/main/CV.pdf)  
 [Transcript (B.S.)](https://raw.githubusercontent.com/Allgot/Allgot.github.io/main/Transcript_BS.pdf)  
