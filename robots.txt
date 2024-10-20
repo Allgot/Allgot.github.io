@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://allgot.github.io/sitemap.xml
