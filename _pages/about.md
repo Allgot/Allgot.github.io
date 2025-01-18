@@ -22,6 +22,7 @@ I am currently pursuing a Master's degree in Computer Science at Korea Advanced 
 
 My research focuses on secure and open communication on the Internet, where I analyze protocols to find vulnerabilities that compromise user privacy. My main research interests include:
 - Network Security and Privacy;
+- Anonymity Networks;
 - Internet Measurement;
 - Censorship and Surveillance.
 

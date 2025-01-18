@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The first paper, "*Measuring DNS-over-HTTPS Downgrades: Prevalence, Techniques, and Bypass Strategies*" has been published! 
+The first paper, "*Measuring DNS-over-HTTPS Downgrades: Prevalence, Techniques, and Bypass Strategies*", has been published! 
