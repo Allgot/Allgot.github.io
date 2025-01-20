@@ -1,1 +1,1 @@
-Check out the rendered page at [allgot.github.io](allgot.github.io)! :)
+Check out the rendered page at [https://allgot.github.io](allgot.github.io)! :)
