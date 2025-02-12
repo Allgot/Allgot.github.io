@@ -18,8 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing a Master's degree in Computer Science at Korea Advanced Institute of Science and Technology (KAIST).
-
+I am currently pursuing a Ph.D. degree in Computer Science at KAIST.
 My research focuses on secure and open communication on the Internet, where I analyze protocols to find vulnerabilities that compromise user privacy. My main research interests include:
 - Network Security and Privacy;
 - Anonymity Networks;
