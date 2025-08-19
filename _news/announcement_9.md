@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-08-19 16:08:05+0900
+date: 2025-08-19 16:02:02+0900
 inline: true
 related_posts: false
 ---
 
-I will serve on the Artifact Evaluation Committee at [IEEE S&P '26](https://sp2026.ieee-security.org/)!
+Excited to share that our paper, *"Onions Got Puzzled: On the Challenges of Mitigating Denial-of-Service Problems in Tor Onion Services,"* has been honored with an Honorable Mention at [USENIX Security '25](https://www.usenix.org/conference/usenixsecurity25)!
