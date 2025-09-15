@@ -5,7 +5,8 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-        {{ site.first_name }} {{ '"' | append: site.middle_name | append: '"' }}
+        {{ site.first_name }}
+        {{ '"' | append: site.middle_name | append: '"' }}
         {{ site.last_name }}
       {% else %}
         {{ site.title }}

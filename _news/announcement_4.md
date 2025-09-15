@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The second paper, "*Onions Got Puzzled: On the Challenges of Mitigating Denial-of-Service Problems in Tor Onion Services*," has been accpeted for [USENIX Security '25](https://www.usenix.org/conference/usenixsecurity25)!
+The second paper, "_Onions Got Puzzled: On the Challenges of Mitigating Denial-of-Service Problems in Tor Onion Services_," has been accpeted for [USENIX Security '25](https://www.usenix.org/conference/usenixsecurity25)!
