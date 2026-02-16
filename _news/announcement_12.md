@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-As Team SNR, together with [Seogyeong Jeong](https://seogyeongjeong.github.io/), we achieved 2nd place at the 3rd AI Hackathon for Network Intelligence, ranking in the top 2% among 94 teams! I'm truly grateful to our team leader, Seogyeong Jeong.
+As Team SNR, together with [Seogyeong Jeong](https://seogyeongjeong.github.io/), we achieved 2nd place at the [3rd AI Hackathon for Network Intelligence](https://biz.heraldcorp.com/article/10584771), ranking in the top 2% among 94 teams! I'm truly grateful to our team leader, Seogyeong Jeong.

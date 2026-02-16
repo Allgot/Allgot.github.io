@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve on the Artifact Evaluation Committee at [PETS '26](https://petsymposium.org/2026/)!
+I will serve on the Artifact Evaluation Committee at [PETS '26](https://petsymposium.org/cfp26.php)!

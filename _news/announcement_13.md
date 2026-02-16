@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honored to be recognized as one of the top 5 poster reviewers for [ACM CCS '25](https://www.sigsac.org/ccs/CCS2025/)!
+Honored to be recognized as one of the top 5 poster reviewers for [ACM CCS '25](https://www.sigsac.org/ccs/CCS2025/awards/)!
