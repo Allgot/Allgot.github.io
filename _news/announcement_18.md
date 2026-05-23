@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honored to be recognized as one of the 4 Distinguished Artifact Evaluators for [IEEE S&P 2026](https://sp2026.ieee-security.org/awards_artifacts.html)!
+Honored to be recognized as one of the four Distinguished Artifact Evaluators for [IEEE S&P 2026](https://sp2026.ieee-security.org/awards_artifacts.html)!
