@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honored to be recognized as one of the Distinguished Artifact Reviewers for [PETS 2026](https://petsymposium.org/2026/)!
+Honored to be recognized as one of the Distinguished Artifact Reviewers for [PETS 2026](https://petsymposium.org/reviewer-awards.php)!
