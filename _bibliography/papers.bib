@@ -1,5 +1,19 @@
 ---
 ---
+@inproceedings{lee27effectiveness,
+    author = {Jinseo Lee and Jongkook Han and Yixin Sun and Min Suk Kang},
+    title = {On the Effectiveness of NetFlow-Based Deanonymization of Tor Onion Services},
+    booktitle = {Proceedings of the 48th IEEE Symposium on Security and Privacy},
+    series = {IEEE S&P '27},
+    year = {2027},
+    location = {Montreal, Canada},
+    publisher = {IEEE},
+    address = {New York, NY, USA},
+    abstract = {In the context of Tor, deanonymization attacks via traffic correlation have long been studied for both clients and onion services. Complementing prior investigations that utilize fine-grained flow metadata such as packet sizes and timings, we study a relatively less explored yet easier-to-obtain adversarial capability: deanonymization using only coarse NetFlow-style telemetry, such as one-minute, 1-out-of-1,000 sampled packet counts. We first revisit active NetFlow-based traffic analysis attacks against Tor onion services and show, through large-scale experiments with live Tor data, that coarse telemetry is sufficient to deanonymize a targeted onion service when the adversary can induce discernible traffic patterns through controlled downloads. We then introduce a stronger active attack based on controlled introduction requests, which removes application-specific assumptions and gives adversaries more flexibility while achieving comparable success rates. Finally, we present a passive deanonymization attack that sends zero traffic to target onion services. The attack exploits Tor's puzzle-based DoS defense as a side channel: public puzzle difficulty reveals service-load changes that can be semantically matched against NetFlow traces. Our findings show that coarse network telemetry poses a practical deanonymization threat to onion services today and call for proactive mitigations, such as IP rotation and a redesign of globally visible defense signals that may leak service-load information.},
+    bibtex_show={true},
+    selected={true},
+}
+
 @inproceedings{lee25onions,
     author = {Lee, Jinseo and Kim, Hobin, and Kang, Min Suk},
     title = {Onions Got Puzzled: On the Challenges of Mitigating {Denial-of-Service} Problems in Tor Onion Services},
