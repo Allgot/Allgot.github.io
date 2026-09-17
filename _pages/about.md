@@ -3,8 +3,6 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='https://netsp.kaist.ac.kr/'>Network Security and Privacy Research Lab at KAIST</a>
-nav: true
-nav_order: 1
 
 profile:
   align: right
