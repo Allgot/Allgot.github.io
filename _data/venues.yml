@@ -1,3 +1,6 @@
-# "CoNEXT":
-#   url: https://dl.acm.org/conference/conext
-#   color: "#3f97da"
+"Networking":
+  # url: https://dl.acm.org/conference/conext
+  color: "#3f97da"
+
+"Security":
+  color: "#b0102d"

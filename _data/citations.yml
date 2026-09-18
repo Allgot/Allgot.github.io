@@ -1,3 +1,11 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-18'
 papers:
+  BclsdIUAAAAJ:9yKSN-GCB0IC:
+    citations: 1
+    title: 'Onions Got Puzzled: On the Challenges of Mitigating Denial-of-Service Problems in Tor Onion Services'
+    year: '2025'
+  BclsdIUAAAAJ:u5HHmVD_uO8C:
+    citations: 14
+    title: 'Measuring dns-over-https downgrades: Prevalence, techniques, and bypass strategies'
+    year: '2024'
