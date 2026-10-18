@@ -14,9 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      # See docs/CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
-             with:
-               token: ${{ secrets.PAT }}
+        with:
+          token: ${{ secrets.PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -28,7 +27,6 @@ jobs:
           echo "🔧 Installing dependencies..."
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
       - name: Save current citations.yml hash
         id: before
         run: |
@@ -41,7 +39,6 @@ jobs:
             echo "sha_before=none" >> $GITHUB_OUTPUT
             echo "📝 No existing citations.yml file found."
           fi
-
       - name: Run citation update script
         id: run_citation_update
         shell: bash
@@ -60,7 +57,6 @@ jobs:
             echo "❌ Citation update script failed with exit code $status." >> $GITHUB_STEP_SUMMARY
           fi
           set -e
-
       - name: Save new citations.yml hash
         id: after
         run: |
@@ -73,7 +69,6 @@ jobs:
             echo "sha_after=none" >> $GITHUB_OUTPUT
             echo "📝 citations.yml was not created or is missing."
           fi
-
       - name: Report citations.yml change in summary
         run: |
           echo "📋 Comparing citation file hashes..."
@@ -84,13 +79,11 @@ jobs:
             echo "ℹ️ _data/citations.yml was not changed."
             echo "ℹ️ _data/citations.yml was not changed." >> $GITHUB_STEP_SUMMARY
           fi
-
       - name: Configure Git
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           echo "🔧 Git configured."
-
       - name: Commit and push if changed
         run: |
           git add _data/citations.yml
