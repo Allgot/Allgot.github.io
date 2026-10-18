@@ -1,11 +1,15 @@
 metadata:
-  last_updated: '2026-09-18'
+  last_updated: '2026-10-18'
 papers:
+  BclsdIUAAAAJ:2osOgNQ5qMEC:
+    citations: 0
+    title: On the Effectiveness of NetFlow-Based Deanonymization of Tor Onion Services (Extended Version)
+    year: '2026'
   BclsdIUAAAAJ:9yKSN-GCB0IC:
-    citations: 1
+    citations: 2
     title: 'Onions Got Puzzled: On the Challenges of Mitigating Denial-of-Service Problems in Tor Onion Services'
     year: '2025'
   BclsdIUAAAAJ:u5HHmVD_uO8C:
-    citations: 14
+    citations: 16
     title: 'Measuring dns-over-https downgrades: Prevalence, techniques, and bypass strategies'
     year: '2024'
